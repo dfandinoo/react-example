@@ -1,0 +1,49 @@
+.Header-background {
+  padding: 50px;
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.Header-main {
+  margin-bottom: 2em;
+  margin-left: -200px;
+}
+
+.Header-illustration {
+  position: absolute;
+  z-index: 0;
+  top: -120px;
+  height: 400px;
+
+}
+
+.Header-Benefit {
+  width: 32%;
+  display: inline-block;
+  margin-right: 1%;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+.Header-Benefit div{
+  padding: 0px !important;
+}
+
+.Header-Benefit-content {
+  flex-basis: 69%;
+  max-width: 65%;
+  padding-top: 10px !important;
+  padding-left:  10px !important;
+  padding-right:  10px !important;
+  padding-bottom:  10px !important;
+
+
+}
+
+.container {
+  widht: 80%;
+  margin: 0 auto;
+}
